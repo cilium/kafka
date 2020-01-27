@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/optiopay/kafka/proto"
+	"github.com/cilium/kafka/proto"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/optiopay/kafka/proto"
+	"github.com/cilium/kafka/proto"
 )
 
 type recordingProducer struct {

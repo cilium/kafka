@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/optiopay/kafka/proto"
+	"github.com/cilium/kafka/proto"
 )
 
 type fetcher struct {

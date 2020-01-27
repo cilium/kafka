@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/optiopay/kafka"
-	"github.com/optiopay/kafka/proto"
+	"github.com/cilium/kafka"
+	"github.com/cilium/kafka/proto"
 )
 
 func ExampleBroker_Producer() {
